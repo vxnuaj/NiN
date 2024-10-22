@@ -1,4 +1,8 @@
-## VGGNet
+<div align = 'center'>
+<img src = 'https://gojay.top/gallery/thumbnails/NIN.png'>
+</div>
+
+## Network in Network
 
 Notes and implementation of the NiN blocks, proposed on *"Network in Network"* by Lin et al.
 
